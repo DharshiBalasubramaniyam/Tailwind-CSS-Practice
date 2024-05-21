@@ -1,4 +1,4 @@
-# Basic componenst using Tailwind CSS
+# Basic components using Tailwind CSS
 
 - Button
 - Card
